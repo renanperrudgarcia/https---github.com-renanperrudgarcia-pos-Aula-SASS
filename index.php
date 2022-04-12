@@ -62,7 +62,7 @@
     </main>
 
     <footer class="footer">
-        <p>Desenvolvido por Anderson Burnes</p>
+        <p>Desenvolvido por Renan Perrud Garcia</p>
 
     </footer>
     <script src="js/jquery-3.6.0.min.js"></script>
